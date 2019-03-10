@@ -18,4 +18,4 @@ Deployed app: [https://foodeecall.herokuapp.com/](https://foodeecall.herokuapp.c
 
 ## Author
 
-Pauline Senh
+- **Pauline Senh** - [plsenh](https://github.com/plsenh)
