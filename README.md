@@ -4,17 +4,17 @@ Ever had a last minute craving and wanted to find someone to eat with? Visiting 
 
 Deployed app: [https://foodeecall.herokuapp.com/](https://foodeecall.herokuapp.com/)
 
-## Created with
+## Created with:
 
 - [MongoDB](https://docs.mongodb.com/manual/)
 - [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org/en/) - Open-source run-time environment that executes JS code outside of a browser.
+- [Node.js](https://nodejs.org/en/)
 
-### npm packages
+#### npm packages:
 
 - [axios](https://github.com/axios/axios)
 - [express](https://expressjs.com/)
-- [Mongoose](http://mongoosejs.com/docs/api.html/)
+- [mongoose](http://mongoosejs.com/docs/api.html/)
 
 ## Author
 
