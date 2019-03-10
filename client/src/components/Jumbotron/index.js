@@ -1,9 +1,14 @@
 import React from "react";
 
-function Jumbotron({ children }) {
+export function Jumbotron({ children }) {
   return (
     <div
-      style={{ height: 300, clear: "both", paddingTop: 120, textAlign: "center" }}
+      style={{
+        height: 300,
+        clear: "both",
+        paddingTop: 120,
+        textAlign: "center"
+      }}
       className="jumbotron"
     >
       {children}
@@ -11,4 +16,24 @@ function Jumbotron({ children }) {
   );
 }
 
-export default Jumbotron;
+export function Jumbotron2 (props) {
+  return (
+    <div
+      style={{
+        height: 300,
+        clear: 'both',
+        paddingTop: 120,
+        textAlign: 'center'
+      }}
+      className='jumbotron'
+    >
+      <h1 className='text-center'>
+        <span className='fa fa-fire' /> {props.headerName}
+      </h1>
+      <hr />
+      <h2 className='text-center'>{props.lead}</h2>
+      <br />
+      {props.children}
+    </div>
+  )
+}
