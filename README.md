@@ -6,13 +6,15 @@ Deployed app: [https://foodeecall.herokuapp.com/](https://foodeecall.herokuapp.c
 
 ## Created with
 
-[MongoDB]()
+- [MongoDB](https://docs.mongodb.com/manual/)
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/) - Open-source run-time environment that executes JS code outside of a browser.
 
-[Express]()
+### npm packages
 
-[React]()
-
-[Node.js]()
+- [axios](https://github.com/axios/axios)
+- [express](https://expressjs.com/)
+- [Mongoose](http://mongoosejs.com/docs/api.html/)
 
 ## Author
 
